@@ -6,6 +6,8 @@ public class HellorController {
 		System.out.println("DemoGit");
 		System.out.println("DemoGitxxxx");
 		System.out.println("DemoGitxxxx");
+		System.out.println("DemoGitssss");
+		System.out.println("DemoGitssss");
 	}
 	public void dGit() {
 		System.out.println("dGit");

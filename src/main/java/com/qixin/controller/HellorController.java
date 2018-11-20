@@ -32,6 +32,10 @@ public class HellorController {
 	
 	public void demoGit02() {
 		System.out.println("demoGit02");
+		System.out.println("hot_fix分支");
+		System.out.println("hot_fix分支");
+		System.out.println("hot_fix分支");
+		System.out.println("hot_fix分支");
 	}
 
 

@@ -8,5 +8,10 @@ public class HellorController {
 	public void dGit() {
 		System.out.println("dGit");
 	}
+	
+	//这是用户充值功能
+	public void demoGit() {
+		System.out.println("DemoGit的充值功能");
+	}
 
 }

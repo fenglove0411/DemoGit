@@ -22,6 +22,12 @@ public class HellorController {
 		System.out.println("xxxxxxxxxxxxxx");
 		System.out.println("ssssssssssssss");
 		System.out.println("xxxxxxxxxxxxxx");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
 	}
 	
 	public void demoGit02() {

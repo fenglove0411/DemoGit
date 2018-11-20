@@ -4,6 +4,8 @@ public class HellorController {
 	public void hello() {
 		System.out.println("hello");
 		System.out.println("DemoGit");
+		System.out.println("DemoGitxxxx");
+		System.out.println("DemoGitxxxx");
 	}
 	public void dGit() {
 		System.out.println("dGit");
@@ -12,6 +14,10 @@ public class HellorController {
 	//这是用户充值功能
 	public void demoGit() {
 		System.out.println("DemoGit的充值功能");
+	}
+	
+	public void demoGit02() {
+		System.out.println("demoGit02");
 	}
 
 }
